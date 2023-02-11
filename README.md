@@ -27,7 +27,7 @@ Erros comum como este na imagem acima, impede você de hospedar suas aplicaçõe
 > <br />MAIN=para alterar o nome do arquivo principal (se necesário)
 > <br />START=para a rota conforme no seu website (se necessário)
 > <br />MEMORY=para alterar a memoria que sua aplicação precisa (se necessário) - Mínimo é 512.
-> <br />SUBDOMAIN=colocando o subdominio que deseja utilizar e mantendo o squareweb.app | Para dominio personalizado, é necessário configura-lo no Cloud Flare e solicitar o mesmo no atendimento ao Square Mail.
+> <br />SUBDOMAIN=colocando o subdominio que deseja utilizar e mantendo o squareweb.app | Para dominio personalizado, é necessário configura-lo no Cloud Flare e fazer a alteração direto na dashboard da Square Cloud.
 > <br />VERSION=para alterar a versão (se necessário). Saiba sobre as versões disponíveis [clicando aqui](https://docs.squarecloud.app/suporte/como-hospedar#versoes-disponiveis-e-recomendadas).
 
 **<br />Para que você possa hospedar um website na Square Cloud, é preciso possuir um plano pago, adquire um plano [clicando aqui](https://squarecloud.app/plans).**
