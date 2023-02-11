@@ -30,7 +30,7 @@ Erros comum como este na imagem acima, impede você de hospedar suas aplicaçõe
 > <br />SUBDOMAIN=colocando o subdominio que deseja utilizar e mantendo o squareweb.app | Para dominio personalizado, é necessário configura-lo no Cloud Flare e solicitar o mesmo no atendimento ao Square Mail.
 > <br />VERSION=para alterar a versão (se necessário). Saiba sobre as versões disponíveis [clicando aqui](https://docs.squarecloud.app/suporte/como-hospedar#versoes-disponiveis-e-recomendadas).
 
-**<br />Para que você possa hospedar um website na Square Cloud, é preceiso possuir um plano pago, adquire um plano [clicando aqui](https://squarecloud.app/plans).**
+**<br />Para que você possa hospedar um website na Square Cloud, é preciso possuir um plano pago, adquire um plano [clicando aqui](https://squarecloud.app/plans).**
 
 3. Feito o download do arquivo de configuração, **você deve compactar todos os arquivos de sua aplicação juntamente com o arquivo de configuração** que você acabou de realizar o download (conforme a imagem abaixo).
 <p align="center">
