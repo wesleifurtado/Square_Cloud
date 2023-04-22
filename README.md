@@ -1,4 +1,5 @@
 # Square Cloud - Arquivo de configuração
+```Última atualização: 22 de Abril de 2023.```
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/876871715593011231/1060941671828820069/Erro.png">
 </p>
