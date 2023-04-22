@@ -10,9 +10,9 @@ Erros comum como este na imagem acima, impede você de hospedar suas aplicaçõe
 - `Não basta apenas criar sua aplicação no portal de desenvolvedores do Discord e achar que magicamente seu bot ficará online`, você precisa possuir os arquivos de seu bot (também conhecido como source) e a Square Cloud deixará seu bot 24 horas 7 dias na semana online, **desde que não haja erros em seu código, abuso de request ou uso execessivo de memória RAM que seu plano suporta.**
 > **Com o plano gratuito da Square Cloud você pode hospedar um bot de 256 MB de RAM ou dois bots com 128 MB cada!**
 1. Baixe o arquivo de configuração para você hospedar suas aplicações na Square Cloud:
-<br />![Alt](https://cdn.discordapp.com/emojis/899029262319890482.png?size=20) Para bots em **JavaScript** [clique aqui](https://cdn.discordapp.com/attachments/876871715593011231/1060953347970052157/squarecloud.app) para fazer o download.
-<br />![Alt](https://cdn.discordapp.com/emojis/899848336000053248.png?size=20) Para bots em **TypeScript** [clique aqui](https://cdn.discordapp.com/attachments/876871715593011231/1060952913846997092/squarecloud.app) para fazer o download.
-<br />![Alt](https://cdn.discordapp.com/emojis/899029744484495471.png?size=20) Para bots em **Python** [clique aqui](https://cdn.discordapp.com/attachments/876871715593011231/1060953987341357186/squarecloud.app) para fazer o download.
+<br />![Alt](https://cdn.discordapp.com/emojis/899029262319890482.png?size=20) Para bots em **JavaScript** [clique aqui](https://cdn.discordapp.com/attachments/876871715593011231/1099384814748041338/squarecloud.app) para fazer o download.
+<br />![Alt](https://cdn.discordapp.com/emojis/899848336000053248.png?size=20) Para bots em **TypeScript** [clique aqui](https://cdn.discordapp.com/attachments/876871715593011231/1099385411354247188/squarecloud.app) para fazer o download.
+<br />![Alt](https://cdn.discordapp.com/emojis/899029744484495471.png?size=20) Para bots em **Python** [clique aqui](https://cdn.discordapp.com/attachments/876871715593011231/1099385937189949500/squarecloud.app) para fazer o download.
 > No próprio arquivo de configuração você pode por opção alterar as seguintes informações:
 > <br />MAIN=para alterar o nome do arquivo principal (se necesário)
 > <br />MEMORY=para alterar a memoria que sua aplicação precisa (se necessário) - Mínimo é 100.
@@ -22,7 +22,7 @@ Erros comum como este na imagem acima, impede você de hospedar suas aplicaçõe
 
 - Para você que deseja hospedar um website na Square Cloud:
 <br />![Alt](https://cdn.discordapp.com/emojis/899029262319890482.png?size=20) Para website em **JavaScript** [clique aqui](https://cdn.discordapp.com/attachments/876871715593011231/1060962482782474340/squarecloud.app) para fazer o download.
-<br />![Alt](https://cdn.discordapp.com/emojis/899848336000053248.png?size=20) Para website em **TypeScript** [clique aqui](https://cdn.discordapp.com/attachments/876871715593011231/1060964722851205160/squarecloud.app) para fazer o download.
+<br />![Alt](https://cdn.discordapp.com/emojis/899848336000053248.png?size=20) Para website em **TypeScript** [clique aqui](https://cdn.discordapp.com/attachments/876871715593011231/1099386965171904623/squarecloud.app) para fazer o download.
 > Neste caso, no próprio arquivo de configuração você deve alterar as seguintes informações:
 > <br />MAIN=para alterar o nome do arquivo principal (se necesário)
 > <br />START=para a rota conforme no seu website (se necessário)
